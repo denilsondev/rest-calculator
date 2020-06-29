@@ -1,0 +1,6 @@
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\obj\Debug\netcoreapp2.2\RestWithDotNetCore.csprojAssemblyReference.cache
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\obj\Debug\netcoreapp2.2\RestWithDotNetCore.csproj.CoreCompileInputs.cache
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\obj\Debug\netcoreapp2.2\RestWithDotNetCore.RazorAssemblyInfo.cache
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\obj\Debug\netcoreapp2.2\RestWithDotNetCore.RazorAssemblyInfo.cs
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\obj\Debug\netcoreapp2.2\RestWithDotNetCore.AssemblyInfoInputs.cache
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\obj\Debug\netcoreapp2.2\RestWithDotNetCore.AssemblyInfo.cs

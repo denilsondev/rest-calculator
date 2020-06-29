@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestCalculator", "RestWithDotNetCore\RestCalculator.csproj", "{AD431E31-9FD0-49FF-801F-5B0CDC45EABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD431E31-9FD0-49FF-801F-5B0CDC45EABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD431E31-9FD0-49FF-801F-5B0CDC45EABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD431E31-9FD0-49FF-801F-5B0CDC45EABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD431E31-9FD0-49FF-801F-5B0CDC45EABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECAA56F9-E646-4518-893C-F98E24972F20}
+	EndGlobalSection
+EndGlobal

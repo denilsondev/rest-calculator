@@ -1,0 +1,13 @@
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\obj\Debug\netcoreapp2.2\RestCalculator.csproj.CoreCompileInputs.cache
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\obj\Debug\netcoreapp2.2\RestCalculator.RazorAssemblyInfo.cache
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\obj\Debug\netcoreapp2.2\RestCalculator.RazorAssemblyInfo.cs
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\obj\Debug\netcoreapp2.2\RestCalculator.AssemblyInfoInputs.cache
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\obj\Debug\netcoreapp2.2\RestCalculator.AssemblyInfo.cs
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\bin\Debug\netcoreapp2.2\RestCalculator.deps.json
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\bin\Debug\netcoreapp2.2\RestCalculator.runtimeconfig.json
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\bin\Debug\netcoreapp2.2\RestCalculator.runtimeconfig.dev.json
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\bin\Debug\netcoreapp2.2\RestCalculator.dll
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\bin\Debug\netcoreapp2.2\RestCalculator.pdb
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\obj\Debug\netcoreapp2.2\RestCalculator.RazorTargetAssemblyInfo.cache
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\obj\Debug\netcoreapp2.2\RestCalculator.dll
+C:\work\estudo\rest-dotnetcore\rest-aspnetcore\RestWithDotNetCore\RestWithDotNetCore\obj\Debug\netcoreapp2.2\RestCalculator.pdb
